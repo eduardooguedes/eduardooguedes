@@ -22,8 +22,8 @@
 <h4>Envolvido diretamente com integrações de terceiros com nossa API. Crio tarefas ao desenvolvimento; me comunico com desenvolvedores e clientes; e testo produtos e métodos.</h4>
 
 
-<h4> Contatos: </h4>
-<h6>
+<h3> Contatos: </h3>
+<h4>
   <ul>
     <li> 
       <a href="https://www.linkedin.com/in/eduardooguedes/">Linkedin</a>
@@ -35,8 +35,8 @@
       <a href="https://www.instagram.com/eduardooguedes/">Instagram</a>
     </li>
   </ul>
-</h6>
+</h4>
 
 
 # Info:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardooguedes)](https://github.com/eduardooguedes/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardooguedes)](https://github.com/eduardooguedes/)
