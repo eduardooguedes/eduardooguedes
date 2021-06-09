@@ -23,7 +23,7 @@
 
 
 <h3> Contatos: </h3>
-<h3>
+<h4>
   <ul>
     <li> 
       <a href="https://www.linkedin.com/in/eduardooguedes/">Linkedin</a>
@@ -35,8 +35,4 @@
       <a href="https://www.instagram.com/eduardooguedes/">Instagram</a>
     </li>
   </ul>
-</h3>
-
-
-# Info:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardooguedes)](https://github.com/eduardooguedes/)
+</h4>
