@@ -4,24 +4,22 @@
 <h3> Evoluindo meus conhecimentos em: </h3>
 <ol>
   <li>
-    Flutter
+    <strong>Flutter</strong>
   </li>
   <li>
-    C#
+    <strong>C#</strong>
   </li>
   <li>
-    HTML5 + CSS + JavaScript
+    <strong>HTML5 + CSS + JavaScript</strong>
   </li>
   <li>
-    Docker
+    <strong>Docker</strong>
   </li>
 </ol>
 
 
 </h3>Atualmente como implantador de sistemas na Atak Sistemas.</h3>
-
-<h4>Trabalho diretamente com integrações de terceiros com nossa API. </h4>
-<h4>Crio tarefas ao desenvolvimento; me comunico com desenvolvedores e clientes; e testo produtos e métodos.</h4>
+<h4>Envolvido diretamente com integrações de terceiros com nossa API. Crio tarefas ao desenvolvimento; me comunico com desenvolvedores e clientes; e testo produtos e métodos.</h4>
 
 
 <h4> Contatos: </h4>
