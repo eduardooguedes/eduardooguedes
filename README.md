@@ -1,6 +1,6 @@
 # Eduardo Guedes
 
-<h2> **Desenvolvedor em andamento** </h2>
+<h2> <strong>Desenvolvedor em andamento </strong> </h2>
 <h3> Evoluindo meus conhecimentos em: </h3>
 <ol>
   <li>
@@ -18,10 +18,10 @@
 </ol>
 
 
-</h2>Atualmente como implantador de sistemas na Atak Sistemas.</h2>
+</h3>Atualmente como implantador de sistemas na Atak Sistemas.</h3>
 
-<h3>Trabalho diretamente com integrações de terceiros com nossa API. </h3>
-<h3>Crio tarefas ao desenvolvimento; me comunico com desenvolvedores e clientes; e testo produtos e métodos.</h3>
+<h4>Trabalho diretamente com integrações de terceiros com nossa API. </h4>
+<h4>Crio tarefas ao desenvolvimento; me comunico com desenvolvedores e clientes; e testo produtos e métodos.</h4>
 
 
 <h4> Contatos: </h4>
