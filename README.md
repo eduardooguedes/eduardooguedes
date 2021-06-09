@@ -23,7 +23,7 @@
 
 
 <h3> Contatos: </h3>
-<h4>
+<h3>
   <ul>
     <li> 
       <a href="https://www.linkedin.com/in/eduardooguedes/">Linkedin</a>
@@ -32,10 +32,11 @@
       <a href="https://www.youtube.com/channel/UCK5hIiWiTjztKwWUjw6mGsg">Youtube</a>
     </li>
     <li> 
+      <img src=”https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.meioemensagem.com.br%2Fhome%2Fproxxima%2Fhow-to%2F2020%2F02%2F14%2F5-tendencias-para-o-instagram-em-2020.html&psig=AOvVaw1f2rJOfDEJ8QKhi2n_FOOc&ust=1623365839782000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJixzaDTi_ECFQAAAAAdAAAAABAJ”>
       <a href="https://www.instagram.com/eduardooguedes/">Instagram</a>
     </li>
   </ul>
-</h4>
+</h3>
 
 
 # Info:
