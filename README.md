@@ -15,6 +15,9 @@
   <li>
     <strong>Docker</strong>
   </li>
+  <li>
+    <strong>AWS</strong>
+  </li>
 </ol>
 
 
