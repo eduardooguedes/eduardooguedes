@@ -39,3 +39,6 @@
     </li>
   </ul>
 </h4>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardooguedes)](https://github.com/eduardooguedes/github-readme-stats)
+
