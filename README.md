@@ -1,13 +1,13 @@
 # Eduardo Guedes
 
-<h2> <strong>Desenvolvedor em andamento </strong> </h2>
+<h2> <strong>Desenvolvedor Junior C#</strong> </h2>
 <h3> Evoluindo meus conhecimentos em: </h3>
 <ol>
   <li>
-    <strong>Flutter</strong>
+    <strong>C#</strong>
   </li>
   <li>
-    <strong>C#</strong>
+    <strong>Flutter</strong>
   </li>
   <li>
     <strong>HTML5 + CSS + JavaScript</strong>
@@ -21,8 +21,8 @@
 </ol>
 
 
-</h3>Atualmente como implantador de sistemas na Atak Sistemas.</h3>
-<h4>Envolvido diretamente com integrações de terceiros com nossa API. Crio tarefas ao desenvolvimento; me comunico com desenvolvedores e clientes; e testo produtos e métodos.</h4>
+</h3>Atualmente como desenvolvedor C# na Atak Sistemas.</h3>
+<h4>Envolvido diretamente com integrações de terceiros com nossa API. Desenvolvo e crio tarefas; me comunico com desenvolvedores e clientes; e testo produtos e métodos.</h4>
 
 
 <h3> Contatos: </h3>
