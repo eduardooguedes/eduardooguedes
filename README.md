@@ -22,7 +22,7 @@
 
 
 </h3>Atualmente como desenvolvedor C# na Atak Sistemas.</h3>
-<h4>Envolvido diretamente com integrações de terceiros com nossa API. Desenvolvo e crio tarefas; me comunico com desenvolvedores e clientes; e testo produtos e métodos.</h4>
+<h4>Envolvido diretamente com integrações de terceiros via API. </h4>
 
 
 <h3> Contatos: </h3>
